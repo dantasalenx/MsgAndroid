@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{8D362AD7-5470-4F9A-9F27-1044D85CB178}|Default">
+  <MonoDevelop.Ide.ItemProperties.MsgPraVc.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MsgPraVc/MainPage.xaml.cs">
+    <Files>
+      <File FileName="MsgPraVc/MainPage.xaml.cs" Line="28" Column="21" />
+      <File FileName="MsgPraVc/MainPage.xaml" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MsgPraVc.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

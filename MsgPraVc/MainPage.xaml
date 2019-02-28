@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:MsgPraVc" x:Class="MsgPraVc.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        
+        <StackLayout Padding="5, 10">
+            <Label Text="Abra sua mente..." 
+               HorizontalOptions="Center" 
+               VerticalOptions="CenterAndExpand" 
+               x:Name="label_content"
+               FontSize="30"
+               
+               />
+        </StackLayout>
+        
+        <Button
+            Text="Me Clica Aeh"
+            Clicked="Clicada"
+            TextColor="White"
+            BackgroundColor="Silver"
+             HorizontalOptions="Center" 
+             VerticalOptions="Fill" 
+        />
+         </StackLayout>
+</ContentPage>
